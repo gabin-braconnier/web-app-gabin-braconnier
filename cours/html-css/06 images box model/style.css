@@ -70,4 +70,9 @@ img {
 figcaption {
     font-style: italic;
     margin-top: 4px;
+    color: crimson
+}
+
+figure {
+    background-color: darkblue;
 }
